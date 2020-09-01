@@ -8,6 +8,7 @@ const (
 	forth
 )
 
+
 func TestConstant(t *testing.T)  {
 	t.Log(Sencond,Third,forth)
 }
